@@ -1,0 +1,9 @@
+# Ignore metadata of IntelliJ and VSCode
+#
+#   $ gibo dump JetBrains VisualStudioCode >> ./.gitignore
+#
+.dart_tool/
+.flutter-plugins
+.packages
+.pub/
+build/
